@@ -1,28 +1,48 @@
-Sales Performance Analytics Dashboard 📊
+Sales Performance Analytics Dashboard – Power BI
 
-This project showcases a professional Power BI dashboard built to analyze sales performance, gross margins, forecast accuracy, and regional profitability for a consumer electronics company.
+This project is a comprehensive Power BI dashboard built to monitor and analyze key performance metrics for a multinational electronics company. It supports business leaders with insights on profitability, market trends, operational risks, and customer performance.
 
-📊 Key Insights Provided
+🔧 Tools & Technologies Used:
 
-- Finance View: Net Sales, Gross Margin %, Net Profit % with Profit & Loss breakdown.
-- Sales View: Customer-wise and Product-wise performance metrics.
-- Marketing View: Segment-level profitability and cost economics using scatter plots and donut charts.
-- Supply Chain View: Forecast Accuracy %, Net Error tracking, and Segment-wise risk analysis.
-- Executive View: Channel, Division, and Sub-zone wise breakdowns with competitor trends.
+Microsoft Power BI
+DAX for calculated measures
+MySQL (for upstream data prep)
+Microsoft Excel (data cleaning)
 
-🛠 Tools & Techniques
+📈 Project Highlights
 
-- Power BI Desktop
-- DAX for custom calculations (Gross Margin %, YoY changes, Forecast Accuracy)
-- Excel and MySQL as data sources
-- Interactive visualizations including:
-  - Line, Pie, Donut, Matrix, Clustered Bar,Scatter,Ribbon and waterfall charts
-  - Drill-through and cross-filtering
+📅 Finance View
+Visualizes P&L metrics including Net Sales, Gross Margin %, and Net Profit %.
+Tracks performance over time and compares against benchmarks (BM) and targets.
+Provides breakdown by region and product category.
 
-🎯 Business Value
+📊 Sales View
+Lists top customers by Net Sales and Gross Margin.
+Product segment-wise contribution to revenue.
+Scatterplot matrix and donut charts for revenue and COGS visual insight.
 
-This dashboard provides end-to-end visibility into sales KPIs and operational metrics, enabling faster and smarter decision-making for business stakeholders.
+💼 Marketing View
+Product-wise and region-wise performance across key KPIs.
+Unit economics with cost vs margin breakdown.
+Bubble chart highlighting underperforming or over-performing product lines.
 
----
+🚚 Supply Chain View
+Forecast Accuracy vs Net Error trend.
+Customer and segment-wise risk classifications (OOS, EI).
+Monitors inventory trends and prediction accuracy.
 
-🧠 *Built by Jagadeesh Chandrasetty — always learning, always improving.
+🧱 Executive View
+Summary of revenue, gross margin, net profit, and forecast accuracy.
+Sub-zonal breakdown of key KPIs.
+Market share trend analysis for MSI vs competitors.
+
+✍️ About the Project
+
+This dashboard was developed as part of internal reporting automation for a consumer electronics client. It helped:
+
+Reduce manual effort by 60%.
+Enable real-time tracking of sales performance.
+Support leadership decision-making with actionable visuals.
+
+Created by: Jagadeesh Chandrasetty
+Role: Data Analyst | BI Developer Location: Bengaluru, India
