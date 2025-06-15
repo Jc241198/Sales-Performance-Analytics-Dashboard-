@@ -11,35 +11,30 @@ This dashboard was developed to analyze and optimize sales performance for a glo
 🧩 Project Views
 
 ### 📷 Finance View – P&L Summary
-![Finance View](screenshots/finance-view.png)
 
 - Shows Net Sales, Gross Margin %, and Net Profit % over time
 - Waterfall chart for profit breakdown
 - Benchmarks vs Targets using DAX time intelligence
 
 📷 Sales View – Customer & Segment Performance
-![Sales View](screenshots/sales-view.png)
 
 - Customer-wise sales and profitability
 - Donut & matrix visuals to highlight top contributors
 - Helps identify underperforming accounts
 
 📷 Marketing View – Product Analytics
-![Marketing View](screenshots/marketing-view.png)
 
 - Segment & Product-wise gross margin vs revenue
 - Scatter chart with performance classification
 - Highlights margin-heavy/loss-making SKUs
 
 📷 Supply Chain View – Forecast & Risk
-![Supply Chain View](screenshots/supply-chain-view.png)
 
 - Forecast Accuracy % and Net Error tracking
 - Flags OOS (Out of Stock) and EI (Excess Inventory) risks
 - Segment-wise performance trends
 
 📷 Executive View – Business Summary
-![Executive View](screenshots/executive-view.png)
 
 - Top KPIs in one glance: Revenue, Margin, Forecast Accuracy
 - Filters by Year, Channel, Sub-zone
