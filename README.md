@@ -1,23 +1,28 @@
-Power BI Sales Performance Analytics Dashboard 📊
+Sales Performance Analytics Dashboard 📊
 
-This Power BI project analyzes the sales performance of a consumer electronics business using real business KPIs.
+This project showcases a professional Power BI dashboard built to analyze sales performance, gross margins, forecast accuracy, and regional profitability for a consumer electronics company.
 
-## 📌 Key Features
-- Finance View: Net Sales, Gross Margin, and Profit & Loss breakdown
-- Sales View: Region-wise and Product-wise revenue analysis
-- Marketing View: Gross Margin % vs. Net Sales matrix
-- Supply Chain View: Forecast Accuracy & Net Error trends
-- Executive View: Channel & Sub-zone wise insights with yearly trends
+📊 Key Insights Provided
 
-## 📂 Tools Used
+- Finance View: Net Sales, Gross Margin %, Net Profit % with Profit & Loss breakdown.
+- Sales View: Customer-wise and Product-wise performance metrics.
+- Marketing View: Segment-level profitability and cost economics using scatter plots and donut charts.
+- Supply Chain View: Forecast Accuracy %, Net Error tracking, and Segment-wise risk analysis.
+- Executive View: Channel, Division, and Sub-zone wise breakdowns with competitor trends.
+
+🛠 Tools & Techniques
+
 - Power BI Desktop
-- DAX for calculated measures
-- Data Modeling: Fact and Dim tables
-- Excel and MySQL as sources
+- DAX for custom calculations (Gross Margin %, YoY changes, Forecast Accuracy)
+- Excel and MySQL as data sources
+- Interactive visualizations including:
+  - Line, Pie, Donut, Matrix, Clustered Bar,Scatter,Ribbon and waterfall charts
+  - Drill-through and cross-filtering
 
-## 🎯 Goal
-To enable better decision-making by visualizing high-level business performance and identifying underperforming regions or segments.
+🎯 Business Value
+
+This dashboard provides end-to-end visibility into sales KPIs and operational metrics, enabling faster and smarter decision-making for business stakeholders.
 
 ---
 
-🧠 *Built by Jagadeesh Chandrasetty — Always learning, always building.
+🧠 *Built by Jagadeesh Chandrasetty — always learning, always improving.
