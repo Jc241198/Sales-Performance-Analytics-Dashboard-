@@ -1,48 +1,56 @@
-Sales Performance Analytics Dashboard – Power BI
+📊 Power BI Sales Performance Dashboard
 
-This project is a comprehensive Power BI dashboard built to monitor and analyze key performance metrics for a multinational electronics company. It supports business leaders with insights on profitability, market trends, operational risks, and customer performance.
+This dashboard was developed to analyze and optimize sales performance for a global electronics brand. It delivers deep insights into financial KPIs, supply chain performance, and marketing trends through interactive Power BI visuals.
 
-🔧 Tools & Technologies Used:
+ 🧰 Tools & Technologies Used
+- Power BI Desktop
+- DAX (Calculated Columns & Measures)
+- Excel (Data source)
+- SQL Server (for transformation & joins)
 
-Microsoft Power BI
-DAX for calculated measures
-MySQL (for upstream data prep)
-Microsoft Excel (data cleaning)
+🧩 Project Views
 
-📈 Project Highlights
+### 📷 Finance View – P&L Summary
+![Finance View](screenshots/finance-view.png)
 
-📅 Finance View
-Visualizes P&L metrics including Net Sales, Gross Margin %, and Net Profit %.
-Tracks performance over time and compares against benchmarks (BM) and targets.
-Provides breakdown by region and product category.
+- Shows Net Sales, Gross Margin %, and Net Profit % over time
+- Waterfall chart for profit breakdown
+- Benchmarks vs Targets using DAX time intelligence
 
-📊 Sales View
-Lists top customers by Net Sales and Gross Margin.
-Product segment-wise contribution to revenue.
-Scatterplot matrix and donut charts for revenue and COGS visual insight.
+📷 Sales View – Customer & Segment Performance
+![Sales View](screenshots/sales-view.png)
 
-💼 Marketing View
-Product-wise and region-wise performance across key KPIs.
-Unit economics with cost vs margin breakdown.
-Bubble chart highlighting underperforming or over-performing product lines.
+- Customer-wise sales and profitability
+- Donut & matrix visuals to highlight top contributors
+- Helps identify underperforming accounts
 
-🚚 Supply Chain View
-Forecast Accuracy vs Net Error trend.
-Customer and segment-wise risk classifications (OOS, EI).
-Monitors inventory trends and prediction accuracy.
+📷 Marketing View – Product Analytics
+![Marketing View](screenshots/marketing-view.png)
 
-🧱 Executive View
-Summary of revenue, gross margin, net profit, and forecast accuracy.
-Sub-zonal breakdown of key KPIs.
-Market share trend analysis for MSI vs competitors.
+- Segment & Product-wise gross margin vs revenue
+- Scatter chart with performance classification
+- Highlights margin-heavy/loss-making SKUs
 
-✍️ About the Project
+📷 Supply Chain View – Forecast & Risk
+![Supply Chain View](screenshots/supply-chain-view.png)
 
-This dashboard was developed as part of internal reporting automation for a consumer electronics client. It helped:
+- Forecast Accuracy % and Net Error tracking
+- Flags OOS (Out of Stock) and EI (Excess Inventory) risks
+- Segment-wise performance trends
 
-Reduce manual effort by 60%.
-Enable real-time tracking of sales performance.
-Support leadership decision-making with actionable visuals.
+📷 Executive View – Business Summary
+![Executive View](screenshots/executive-view.png)
 
-Created by: Jagadeesh Chandrasetty
-Role: Data Analyst | BI Developer Location: Bengaluru, India
+- Top KPIs in one glance: Revenue, Margin, Forecast Accuracy
+- Filters by Year, Channel, Sub-zone
+- Ideal for CXO-level quick decision-making
+
+🎯 Business Impact
+- 10% increase in profit margin due to improved sales visibility
+- 5+ hours/week saved via automated reporting
+- Real-time insight delivery to sales and operations leadership
+
+By Jagadeesh Chandrasetty 
+Data Analyst | BI Developer
+📍 Bangalore, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/jagadeesh-chandrasetty-48162a27a)
