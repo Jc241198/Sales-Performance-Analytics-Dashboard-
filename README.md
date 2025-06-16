@@ -18,24 +18,28 @@ This dashboard was developed to analyze and optimize sales performance for a glo
 - Benchmarks vs Targets using DAX time intelligence
 
 📷 Sales View – Customer & Segment Performance
+[![Sales View](Sales%20view.png)](Sales%20view.png)
 
 - Customer-wise sales and profitability
 - Donut & matrix visuals to highlight top contributors
 - Helps identify underperforming accounts
 
 📷 Marketing View – Product Analytics
+[![Marketing View](Marketing%20view.png)](Marketing%20view.png)
 
 - Segment & Product-wise gross margin vs revenue
 - Scatter chart with performance classification
 - Highlights margin-heavy/loss-making SKUs
 
 📷 Supply Chain View – Forecast & Risk
+[![Supply Chain View](Supply%20chain%20view.png)](Supply%20chain%20view.png)
 
 - Forecast Accuracy % and Net Error tracking
 - Flags OOS (Out of Stock) and EI (Excess Inventory) risks
 - Segment-wise performance trends
 
 📷 Executive View – Business Summary
+[![Executive View](Executive%20view.png)](Executive%20view.png)
 
 - Top KPIs in one glance: Revenue, Margin, Forecast Accuracy
 - Filters by Year, Channel, Sub-zone
