@@ -11,7 +11,7 @@ This dashboard was developed to analyze and optimize sales performance for a glo
 🧩 Project Views
 
 ### 📷 Finance View – P&L Summary
-[![Finance View](finance%20view.png)](finance%20view.png)
+[![Finance View](finance_view.png)](finance_view.png)
 
 - Shows Net Sales, Gross Margin %, and Net Profit % over time
 - Waterfall chart for profit breakdown
